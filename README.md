@@ -47,7 +47,7 @@ npm run dev
 
 
 ## License 
- [MIT](LICENSE) © 2023  KleyberJMH
+ [MIT](LICENSE.md) © 2023  KleyberJMH
 
 
 
