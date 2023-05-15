@@ -5,35 +5,12 @@ Is a AI online CLI helper who gives you the command for every question you ask u
 ***Output:*** apt install nodejs
 
 ## Table Of Content
-
 - [Installation](#Installation)
-
     - [Clone Repository](#Clone-repository)
-
     - [Replace your API KEY](#Setup-your-API-Key)
-
     - [Install dependencies](#Install-needed-dependencies)
-
     - [Run developer server](#Run-developer-server)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 - [Contributions](#Contributing)
-
 - [License](#License)
 
 
@@ -47,11 +24,12 @@ Is a AI online CLI helper who gives you the command for every question you ask u
 git clone https://github.com/KleyberJMH/UnderscoOre.git
 ```
 ### Setup your API Key
-env.d.ts
 ```
-COHERE_API_KEY = "Your API Key"
-COHERE_API_GENERATION_URL = ""
+#env.d.ts
+COHERE_API_KEY = "{HERE YOUR API KEY}"
+COHERE_API_GENERATION_URL = "https://api.cohere.ai/generate"
 ```
+
 ### Install needed dependencies
 ```
 npm install
@@ -63,19 +41,12 @@ npm run dev
 ```
 
 ## Contributing 
-
-  
-
  If you have suggestions for how **UnderscoOre** could be improved, or want to report a bug, open an issue! We'd love all and any contributions. 
-
-  
 
  For more, check out the [Contributor Covenant Code Of Conduct](CONTRIBUTING.md).
 
+
 ## License 
-
-  
-
  [MIT](LICENSE) © 2023  KleyberJMH
 
 
