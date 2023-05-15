@@ -23,10 +23,10 @@ export async function underscoore(input){
 		}
 
 
-	const response = await fetch('https://api.cohere.ai/generate',{
+	const response = await fetch(import.meta.env.COHERE_API_GENERATE_URL,{
 		method: 'POST',
 		headers: {
-			Authorization: `BEARER k3xFYR8wB8C07lmgu9yl3m2EbpQmFwTA9oETYpQw`,
+			Authorization: `BEARER ${import.meta.env.COHERE_API_KEY}`,
 			"Content-Type": 'application/json',
 			"Cohere-Version":'2022-12-06'
 		},
