@@ -1,5 +1,5 @@
 {
-  "name": "fixmyenglish",
+  "name": "underscoore",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -13,6 +13,7 @@
     "@astrojs/svelte": "^2.1.1",
     "@astrojs/tailwind": "^3.1.2",
     "astro": "^2.4.5",
+    "cohere-ai": "^6.2.0",
     "svelte": "^3.59.1",
     "tailwindcss": "^3.3.2"
   }
