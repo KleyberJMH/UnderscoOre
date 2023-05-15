@@ -1,11 +1,11 @@
 # What is Undersco>_Ore
 Is a AI online CLI helper who gives you the command for every question you ask using AI with the Cohere API.
 
-```
-Input: Install nodejs un ubuntu
+### Input: 
+Install nodejs un ubuntu
 
-Output: apt install nodejs
-```
+### Output: 
+apt install nodejs
 
 
 # First steps with Undersco>_Ore
@@ -24,7 +24,7 @@ COHERE_API_GENERATION_URL = ""
 npm install
 ```
 
-##4. Run developer server
+## 4. Run developer server
 ```
 npm run dev
 ```
