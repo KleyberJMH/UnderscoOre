@@ -14,7 +14,7 @@ Is a AI online CLI helper who gives you the command for every question you ask u
 
     - [Install dependencies](#Install-needed-dependencies)
 
-    - [Run developer server](#Run-developer-server
+    - [Run developer server](#Run-developer-server)
 
 
 
