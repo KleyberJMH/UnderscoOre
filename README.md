@@ -43,7 +43,7 @@ npm run dev
 ## Contributing 
  If you have suggestions for how **UnderscoOre** could be improved, or want to report a bug, open an issue! We'd love all and any contributions. 
 
- For more, check out the [Contributor Covenant Code Of Conduct](CONTRIBUTING.md).
+ For more, check out the [Code Of Conduct](code-of-conduct.md).
 
 
 ## License 
